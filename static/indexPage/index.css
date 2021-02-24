@@ -226,18 +226,18 @@ button.btn {
   background: #d40078;
 }
 
-.subscribe {
+.contact {
   padding: 150px 0;
   text-align: center;
   text-transform: uppercase;
   background: url(https://20bhum38099q1o8x05151xl1-wpengine.netdna-ssl.com/wp-content/uploads/2018/01/retrowave_stinger.jpg) center top/cover no-repeat fixed;
 }
 
-.subscribe-title {
+.contact-title {
   margin-bottom: 25px;
 }
 
-.subscribe-form {
+.contact-form {
   max-width: 400px;
   margin: 0 auto;
 }
