@@ -207,11 +207,13 @@ button.btn {
   margin: 25px auto;
   border-radius: 50%;
   border: 20px solid #210f5b;
+  text-align: center;
 }
 
 .about-text {
   max-height: 200px;
   overflow-y: auto;
+  text-align: center;
 }
 
 .about-text::-webkit-scrollbar {
