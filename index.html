@@ -63,7 +63,7 @@
         <img class="about-img" src="static/indexPage/images/paul.png" alt="">
         <div class="about-text">
           <p>My name is Paul Chevrier and I'm 20 years old.</p>
-          <p>I'm a junior developer with a sensivity for the web. I'm
+          <p>I'm a junior software developer. I'm
             passionate about new technologies since I was young.</p>
           <p>And as you can see, I love the synthwave! *-*</p>
         </div>
@@ -73,12 +73,12 @@
     <section id="contact" class="contact bg-overlay">
       <div class="container">
         <h2 class="contact-title text-white">Would you like to know more? Contact me!</h2>
-        <form class="contact-form" action="">
+        <form class="contact-form" action="" onsubmit="return false">
           <div class="form-field">
-            <input type="email" placeholder="Your email" required>
+            <input id="email" type="email" placeholder="Your email" required>
           </div>
           <div class="form-field">
-            <input type="text" placeholder="Your message" required>
+            <input id="message" type="text" placeholder="Your message" required>
           </div>
           <button class="btn" type="submit">Send</button>
         </form>
