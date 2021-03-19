@@ -99,7 +99,7 @@ input, button {
 
 .btn[type=submit]:hover {
   color: #000;
-  text-shadow: 30px 30px 5px #000;
+  text-shadow: 30px 30px 5px rgba(0, 0, 0, 0);
   box-shadow: 0 0 15px 15px #9700cc;
   background-color: #fff;
 }
