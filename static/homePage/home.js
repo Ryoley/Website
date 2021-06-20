@@ -18,4 +18,4 @@ $btnToggleAudio.addEventListener('click', () => {
 });
 
 document.querySelector('#callback')
-    .addEventListener('click', () => open("https://fr.wikipedia.org/wiki/Synthwave"));
+    .addEventListener('click', () => open("https://floriaaan.github.io/"));
